@@ -1,0 +1,17 @@
+# 白名單發布；防止原始副本與中間資料進入版本庫
+*
+!*/
+!*.md
+!*.csv
+!.gitignore
+**/工作資料/**
+**/來源證據/**
+**/封存/**
+*.pdf
+*.png
+*.jpg
+*.zip
+*.json
+*.py
+.env*
+!.gitattributes
